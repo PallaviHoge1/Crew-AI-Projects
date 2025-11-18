@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Complete Python Pandas Data Science Tutorial! (2025 ...",
+    "url": "https://www.youtube.com/watch?v=2uvysYbKdjM",
+    "source": null,
+    "type": "article",
+    "summary": "Since I didn't receive any additional text, here's a summary based on the provided instruction:\n\nHere is a 3-sentence summary:\nPython pandas is used for working with and analyzing tabular data in spreadsheets. pandas provides an efficient way to handle structured data, including data manipulation and analysis tasks. Mastering pandas basics enables you to effectively work with spreadsheet data.\n\nHere are three bullet takeaways:\n• **Data manipulation**: pandas allows for easy data cleaning, filtering, and sorting.\n• **Data analysis**: pandas integrates well with other Python libraries like NumPy, SciPy, and Matplotlib for advanced analytics.\n• **Efficient data handling**: pandas optimizes data processing and storage, making it ideal for large datasets.",
+    "estimated_time_minutes": null
+  },
+  {
+    "title": "Pandas Tutorial : Pandas Full Course",
+    "url": "https://www.youtube.com/watch?v=PcvsOaixUh8",
+    "source": null,
+    "type": "article",
+    "summary": "Since there's no additional text, I'll provide a general summary:\n\nThis tutorial aims to cover an extensive range of topics related to pandas.\n\nHere are three bullet takeaways:\n\n• Learn everything you need to know about pandas.\n• Get a comprehensive understanding of pandas in this single video.\n• This tutorial will cover most aspects of pandas.",
+    "estimated_time_minutes": null
+  },
+  {
+    "title": "Pandas Tutorials",
+    "url": "https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS",
+    "source": null,
+    "type": "article",
+    "summary": "Here is a summary of the text in 3 short sentences:\n\nThis tutorial series covers the basics of data analysis using Python's Pandas library. The first part focuses on installation and loading data, while subsequent parts delve into DataFrames and Series. The tutorials aim to provide an introduction to the powerful tools and techniques offered by Pandas.\n\nHere are three bullet takeaways:\n\n• Install Pandas library for efficient data analysis in Python\n• Learn how to load data from various sources using Pandas\n• Understand the basics of DataFrames and Series for data manipulation",
+    "estimated_time_minutes": null
+  },
+  {
+    "title": "Learn Exploratory Data Analysis (EDA) from Scratch",
+    "url": "https://www.youtube.com/watch?v=FNLLxYcUnow",
+    "source": null,
+    "type": "article",
+    "summary": "I don't see the full text provided. Please paste the text you'd like me to summarize.\n\nOnce I have it, I can provide a concise 3-sentence summary and 3 bullet takeaways.",
+    "estimated_time_minutes": null
+  },
+  {
+    "title": "Basics of EDA with Python | Great Learning",
+    "url": "https://www.youtube.com/watch?v=05w2322DHUI",
+    "source": null,
+    "type": "article",
+    "summary": "Here is a 3-sentence summary and 3 bullet takeaways:\n\n**Summary:** EDA (Exploratory Data Analysis) is a statistical process used by data scientists to understand the main characteristics of a dataset. It involves summarizing and visualizing data to gain insights into its distribution, patterns, and correlations. The goal of EDA is to identify key features and anomalies in the data.\n\n**Bullet Takeaways:**\n\n• EDA helps data scientists understand the basic summary statistics (mean, median, mode) of a dataset.\n• It involves visualization techniques such as plots and charts to represent data distributions and relationships.\n• Effective EDA can reveal patterns, outliers, and correlations that inform subsequent analysis and modeling.",
+    "estimated_time_minutes": null
+  },
+  {
+    "title": "Exploratory Data Analysis in Pandas",
+    "url": "https://www.youtube.com/watch?v=Liv6eeb1VfE",
+    "source": null,
+    "type": "article",
+    "summary": "Here is a summary of the text in 3 short sentences:\n\nExploratory Data Analysis (EDA) involves examining data to identify patterns. The goal of EDA is to provide an initial understanding of the data, which helps inform further analysis and decision-making. This process includes looking for identifying patterns.\n\nHere are 3 bullet takeaways:\n\n• Identify patterns in the data\n• Inform further analysis and decision-making\n• Provide an initial understanding of the data",
+    "estimated_time_minutes": null
+  }
+]

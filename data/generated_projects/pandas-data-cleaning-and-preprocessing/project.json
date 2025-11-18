@@ -1,0 +1,15 @@
+{
+  "title": "Pandas Data Cleaning and Preprocessing",
+  "description": "Clean and preprocess a pandas data frame for analysis.",
+  "difficulty": "intermediate",
+  "estimated_hours": 20,
+  "required_skills": [
+    "pandas",
+    "numpy",
+    "sklearn"
+  ],
+  "steps": [
+    "Handle missing values using drop, fill, or impute methods",
+    "Remove outliers using visualizations or statistical methods"
+  ]
+}

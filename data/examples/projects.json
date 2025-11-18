@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Pandas Data Visualization",
+    "description": "Create interactive plots and charts using pandas data frames.",
+    "difficulty": "beginner",
+    "estimated_hours": 10,
+    "steps": [
+      "Install necessary libraries: matplotlib, seaborn",
+      "Load a sample dataset (e.g., tip dataset)",
+      "Visualize the dataset using histograms, boxplots, scatter plots"
+    ],
+    "required_skills": [
+      "pandas",
+      "matplotlib",
+      "seaborn"
+    ]
+  },
+  {
+    "title": "Exploratory Data Analysis (EDA) for Pandas",
+    "description": "Perform EDA on a pandas data frame to understand the distribution of variables.",
+    "difficulty": "beginner",
+    "estimated_hours": 15,
+    "steps": [
+      "Load a sample dataset (e.g., iris dataset)",
+      "View summary statistics and data types"
+    ],
+    "required_skills": [
+      "pandas",
+      "numpy"
+    ]
+  },
+  {
+    "title": "Pandas Data Cleaning and Preprocessing",
+    "description": "Clean and preprocess a pandas data frame for analysis.",
+    "difficulty": "intermediate",
+    "estimated_hours": 20,
+    "steps": [
+      "Handle missing values using drop, fill, or impute methods",
+      "Remove outliers using visualizations or statistical methods"
+    ],
+    "required_skills": [
+      "pandas",
+      "numpy",
+      "sklearn"
+    ]
+  }
+]

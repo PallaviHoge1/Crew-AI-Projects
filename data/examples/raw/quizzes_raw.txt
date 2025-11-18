@@ -1,0 +1,132 @@
+[
+  {
+    "topic": "Pandas",
+    "questions": [
+      {
+        "question": "What is a key concept of Pandas? (placeholder 1)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "answer_index": 0,
+        "explanation": "Placeholder explanation",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is a key concept of Pandas? (placeholder 2)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "answer_index": 0,
+        "explanation": "Placeholder explanation",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is a key concept of Pandas? (placeholder 3)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "answer_index": 0,
+        "explanation": "Placeholder explanation",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is a key concept of Pandas? (placeholder 4)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "answer_index": 0,
+        "explanation": "Placeholder explanation",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is a key concept of Pandas? (placeholder 5)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "answer_index": 0,
+        "explanation": "Placeholder explanation",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "topic": "EDA",
+    "questions": [
+      {
+        "question": "What is the primary purpose of exploratory data analysis (EDA)?",
+        "options": [
+          "To identify patterns in data.",
+          "To create visualizations for presentation.",
+          "To explore and summarize dataset characteristics.",
+          "To perform statistical modeling."
+        ],
+        "answer_index": 2,
+        "explanation": "EDA is used to understand the distribution of variables, check for missing values, and summarize dataset characteristics.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What type of visualization is best suited for displaying the relationship between two categorical variables?",
+        "options": [
+          "Bar chart",
+          "Scatter plot",
+          "Heatmap",
+          "Box plot"
+        ],
+        "answer_index": 2,
+        "explanation": "A heatmap is a visual representation that displays data as color-coded values, which makes it ideal for showing relationships between categorical variables.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which of the following statements about correlation coefficient (e.g., Pearson's r) is correct?",
+        "options": [
+          "Correlation coefficient measures the strength and direction of a linear relationship.",
+          "Correlation coefficient measures the strength of a non-linear relationship.",
+          "Correlation coefficient measures the independence of two variables.",
+          "Correlation coefficient measures the total variance explained by a variable."
+        ],
+        "answer_index": 0,
+        "explanation": "The correct answer is option A: Correlation coefficient measures the strength and direction of a linear relationship. It indicates whether there is a positive or negative relationship between variables.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the purpose of data visualization in EDA?",
+        "options": [
+          "To summarize data",
+          "To communicate insights",
+          "To perform statistical modeling",
+          "All of the above"
+        ],
+        "answer_index": 3,
+        "explanation": "Data visualization serves multiple purposes, including summarizing data, communicating insights, and helping to identify patterns or trends.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is a common issue that EDA helps to address?",
+        "options": [
+          "Outliers in the data",
+          "Missing values in the data",
+          "Incorrect variable labels",
+          "Inconsistent data formatting"
+        ],
+        "answer_index": 1,
+        "explanation": "One of the primary issues addressed by EDA is identifying and understanding missing values, which can significantly impact analysis results.",
+        "difficulty": "medium"
+      }
+    ]
+  }
+]

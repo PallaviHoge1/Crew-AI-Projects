@@ -1,0 +1,16 @@
+{
+  "title": "Pandas Data Visualization",
+  "description": "Create interactive plots and charts using pandas data frames.",
+  "difficulty": "beginner",
+  "estimated_hours": 10,
+  "required_skills": [
+    "pandas",
+    "matplotlib",
+    "seaborn"
+  ],
+  "steps": [
+    "Install necessary libraries: matplotlib, seaborn",
+    "Load a sample dataset (e.g., tip dataset)",
+    "Visualize the dataset using histograms, boxplots, scatter plots"
+  ]
+}

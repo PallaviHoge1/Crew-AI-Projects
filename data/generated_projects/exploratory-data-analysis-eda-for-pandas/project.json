@@ -1,0 +1,14 @@
+{
+  "title": "Exploratory Data Analysis (EDA) for Pandas",
+  "description": "Perform EDA on a pandas data frame to understand the distribution of variables.",
+  "difficulty": "beginner",
+  "estimated_hours": 15,
+  "required_skills": [
+    "pandas",
+    "numpy"
+  ],
+  "steps": [
+    "Load a sample dataset (e.g., iris dataset)",
+    "View summary statistics and data types"
+  ]
+}

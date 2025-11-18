@@ -1,0 +1,16 @@
+pydantic==2.8.2
+python-dotenv==1.0.1
+requests==2.32.3
+
+# Optional but recommended for lightweight sequential workflows
+langgraph==0.2.40
+
+# Only if you want a simple API / demo UI
+fastapi==0.110.0
+uvicorn==0.29.0
+
+# Local LLM python wrapper (optional – you can also call via subprocess)
+ollama==0.1.9
+
+# Testing
+pytest==8.3.3
