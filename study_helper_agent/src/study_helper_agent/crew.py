@@ -10,7 +10,7 @@ from crewai import LLM
 
 llm = LLM(
     model="gpt-4.1-nano-2025-04-14",
-    api_key="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",  # Or set OPENAI_API_KEY
+    api_key="",  # Or set OPENAI_API_KEY
     temperature=0.7,
     max_tokens=4000
 )
