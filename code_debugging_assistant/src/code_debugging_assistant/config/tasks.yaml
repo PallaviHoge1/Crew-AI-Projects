@@ -1,0 +1,36 @@
+analysis_task:
+  description: >
+    Analyze the input code, list issues, and run a local compile/exec check the {code}.
+    Adapt the selection to the user’s skill level and goals.
+  expected_output: >
+    A list of issues with code if it is incorrect.
+  agent: CodeAnalyzer
+  input_schema:
+    code: string
+  output_schema:
+    analysis: string
+    runtime_check: object
+  steps:
+    - action: analyze_code
+      agent: CodeAnalyzer
+      uses_tool: local_python_tool
+
+correction_task:
+  description: >
+    Use analyzer output to produce corrected Python code
+  expected_output: The corrected code
+  agent: CodeCorrector
+  input_schema:
+    code: string
+  output_schema:
+    correction: syntax
+  stepss:
+    - action: correct_code
+      agent: CodeCorrector
+      uses_tool: local_python_tool
+
+manager_task:
+  description: >
+    Oversees the analysis and correction process.
+  expected_output: The comments on workflow
+  agent: Manager

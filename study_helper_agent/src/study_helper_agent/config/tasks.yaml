@@ -1,0 +1,24 @@
+content_selection_task:
+  description: >
+    Identify and curate the most valuable and effective learning materials for {topic}.
+    Include resources such as videos, articles, tutorials, courses, documentation, and cheat sheets.
+    Adapt the selection to the user’s skill level and goals.
+  expected_output: >
+    A structured learning path with curated materials divided into levels.
+  agent: content_selector
+
+quiz_generation_task:
+  description: >
+    Create a quiz that thoroughly tests the learner's understanding of the curated {topic} materials.
+    Include multiple types of questions such as MCQs, true/false, scenario-based, and coding (if applicable).
+  expected_output: >
+    A complete quiz with 10–15 questions and an answer key.
+  agent: quiz_generator
+
+project_suggestion_task:
+  description: >
+    Recommend practical and achievable project ideas based on the user’s current expertise level in {topic}.
+    Ensure each project has a clear objective, expected outcome, and required knowledge.
+  expected_output: >
+    A list of 5 project ideas categorized by beginner, intermediate, and advanced levels.
+  agent: project_suggester
